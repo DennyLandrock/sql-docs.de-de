@@ -25,13 +25,13 @@ ms.lasthandoff: 10/13/2017
 ---
 # <a name="microsoft-machine-learning-services"></a>Microsoft Machine Learning-Dienste
 
-Das Ziel von Microsoft Machine Learning-Services ist eine erweiterbare, skalierbare Plattform für das Integrieren von Machine Learning-Aufgaben und Tools in die Anwendungen, die Machine Learning-Dienste zu nutzen bereitstellen. Die Plattform muss die Anforderungen aller Benutzer Entwicklungs- und das Data Analytics-Prozess Beteiligten aus Datenanalysten, Architekten und Datenbankadministratoren dienen. 
+Das Ziel von Microsoft Machine Learning-Services ist eine erweiterbare, skalierbare Plattform für das Integrieren von Machine Learning-Aufgaben und Tools in die Anwendungen, die Machine Learning-Dienste bereitstellen. Die Plattform muss die Anforderungen aller Benutzer, Entwicklungs- und der Data Analytics-Prozess Beteiligten aus Datenanalysten, Architekten und Datenbankadministratoren erfüllen. 
 
 Wichtige Vorteile:
 
 + Skalierbare Analytics
 + Multi-Plattform und -Umgebungen (lokal, remote, ...) der Lösungen gemäß der Prämisse "einmal schreiben, überall bereitstellen"
-+ Das Verschieben der Analyse zu den Daten verringert den Bedarf an Datenverschiebung und damit verbundener Risiken 
++ Das Verschieben der Analyse zu den Daten verringert den Bedarf an Datenverschiebungen und die damit verbundenen Risiken 
 + Datenanalysten können ihre Tools und Sprachen selbst auswählen.
 + Integration von Microsofts Funktionen mit dem besten an Open-Source Funktionalität 
 + Vereinfachung der Administration
@@ -125,9 +125,9 @@ Der Azure Marketplace enthält mehrere virtuelle Computer, die Data Science unte
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Erste Schritte mit Machine Learning-Dienste](getting-started-with-sql-server-r-services.md)
+[Erste Schritte mit den Machine Learning-Diensten](getting-started-with-sql-server-r-services.md)
 
-[Erste Schritte mit Machine Learning-Server](getting-started-with-microsoft-r-server-standalone.md)
+[Erste Schritte mit dem Machine Learning-Server](getting-started-with-microsoft-r-server-standalone.md)
 
 [Installieren Sie das SQL Server-Datenbankmodul](../../database-engine/install-windows/install-sql-server-database-engine.md)
 
